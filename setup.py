@@ -21,7 +21,7 @@ def get_requirements(file_path: str) -> List[str]:
 setup(    
     name='firstDS',
     version="0.0.1",
-    author= "Sherry",
+    author= "Ali kumbhar",
     author_email= "sherry@gmail.com",
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt') 
